@@ -4,6 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+bsedata = "*"
+django = "*"
+djangorestframework = "*"
+requests = "*"
+nsedata = "*"
+cryptography = "==3.4.5"
 
 [dev-packages]
 
